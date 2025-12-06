@@ -155,4 +155,4 @@ Ask your AI assistant to search code naturally:
 
 ## License
 
-MIT
+This project is licensed under the MIT License — see the `LICENSE` file for details.

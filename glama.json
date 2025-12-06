@@ -1,0 +1,19 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "VaibhavRaina"
+  ],
+  "name": "GREB MCP",
+  "description": "Semantic code search for AI agents. Search your codebase using natural language queries without indexing or vector databases.",
+  "categories": [
+    "code-analysis",
+    "rag-systems",
+    "autonomous-agents"
+  ],
+  "tools": [
+    {
+      "name": "code_search",
+      "description": "Search code using natural language queries powered by AI. Returns ranked code snippets with file paths, line numbers, and relevance scores."
+    }
+  ]
+}
